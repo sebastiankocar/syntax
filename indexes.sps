@@ -9,3 +9,5 @@ EXECUTE.
 
 COMPUTE imporSPQ=(Q13a+Q13b+Q13c+Q13d)/4.
 EXECUTE.
+
+The third change for the third commit and second push to GitHub.
